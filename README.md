@@ -36,14 +36,14 @@ Este es un proyecto básico de Spring Boot que expone un endpoint en `/hello` pa
 
 Deberías ver el mensaje: ¡Hola, mundo!.
 
-#### Tecnologías Utilizadas
+## Tecnologías Utilizadas
 Spring Boot: Framework para aplicaciones Java.
 
 Maven: Gestor de dependencias y construcción del proyecto.
 
 Java: Lenguaje de programación.
 
-##### Estructura del Proyecto
+## Estructura del Proyecto
 mi-proyecto-spring-boot/
 ├── src/
 │   ├── main/
