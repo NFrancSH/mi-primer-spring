@@ -1,4 +1,6 @@
 # Mi Proyecto Spring Boot
+Salauz Hernandez Nerick Francisco 6CV3
+Ingenieria de Software - Hurtado Aviles Gabriel
 
 ## Descripción
 Este es un proyecto básico de Spring Boot que expone un endpoint en `/hello` para devolver un mensaje de saludo.
